@@ -1,4 +1,4 @@
-# myPortfolio
+myPortfolio
 
 From terminal:
 
