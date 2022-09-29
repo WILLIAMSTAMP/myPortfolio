@@ -1,10 +1,10 @@
 # myPortfolio
 
-FRom terminal
+From terminal
 
-Run <npm install>
+# Run <npm install>
 
-Run <npm i -S react-scripts>
+# Run <npm i -S react-scripts>
 
-Run <npm start>
+# Run <npm start>
 
