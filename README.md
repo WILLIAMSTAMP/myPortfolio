@@ -1,6 +1,6 @@
 # myPortfolio
 
-
+FRom terminal
 
 Run <npm install>
 
