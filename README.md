@@ -2,7 +2,7 @@
 
 From terminal
 
-# Run <npm install>
+# Run <<npm install>>
 
 # Run <npm i -S react-scripts>
 
