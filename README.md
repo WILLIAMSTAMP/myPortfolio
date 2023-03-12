@@ -6,3 +6,4 @@ From terminal:
 2. Run <npm i -S react-scripts>
 3. Run <npm start>
 
+
